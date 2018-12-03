@@ -1,5 +1,3 @@
-##Dog Party##
-
 This project was called 'Dog Party'. We were given a comp and had to match it as closely as possible. This site was built with HTML and CSS, made responsive with media queries and interactive with JavaScript. I learned a lot about both media queries and basic JavaScript through this project.
 
 Comp: <br>
